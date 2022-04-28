@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2583298949
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2861eb6db04690c9e6d81ce57265b8a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 21c99c86a43ad817b2cb7f65458ae090
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/SampleFramework/Usage/SharedAssets/Skyboxes/Sky_01/Skybox01.mat
+Dependencies:
+- C:/dev/QuestTemplate/OVRAssetBundles/OVRMasterBundle/asset_png0

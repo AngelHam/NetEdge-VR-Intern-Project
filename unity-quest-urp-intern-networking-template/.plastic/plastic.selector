@@ -1,0 +1,4 @@
+repository "unity-quest-urp-intern-networking-template@NetEdge@cloud"
+  path "/"
+    br "/main"
+    co "/main"

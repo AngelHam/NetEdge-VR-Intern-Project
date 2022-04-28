@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2135621542
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f64c9be7d5c76748e58c4627a71639b4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cb7c8483c543daf0f63c94010ee16e0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac27124318cf8e84aa7350c2ac1cdb80, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7fa80e7116296f4eb4f49ec1544ee22, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00f3402a2ea5bff4880c0313515240cd, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/CRJ200Scene.unity
+Dependencies:
+- C:/dev/QuestTemplate/OVRAssetBundles/OVRMasterBundle/asset_prefab0
+- C:/dev/QuestTemplate/OVRAssetBundles/OVRMasterBundle/asset_mat0
